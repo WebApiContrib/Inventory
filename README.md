@@ -47,6 +47,10 @@ worked on, as well as providing links to some valuable resources.
 
 * NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Formatting.MsgPack`
 
+### [WebApiContrib.Formatting.CollectionJson] (http://github.com/WebApiContrib/WebApiContrib.Formatting.CollectionJson)
+
+* NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Formatting.CollectionJson`
+
 ## Inversion of Control
 
 ### [WebApiContrib.IoC.CastleWindsor](http://github.com/WebApiContrib/WebApiContrib.IoC.CastleWindsor)
