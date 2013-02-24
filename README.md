@@ -51,6 +51,10 @@ worked on, as well as providing links to some valuable resources.
 
 * NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Formatting.CollectionJson`
 
+### [WebApiContrib.Formatting.Bson](http://github.com/WebApiContrib/WebApiContrib.Formatting.Bson)
+
+* NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Formatting.Bson`
+
 ## Inversion of Control
 
 ### [WebApiContrib.IoC.CastleWindsor](http://github.com/WebApiContrib/WebApiContrib.IoC.CastleWindsor)
@@ -82,6 +86,10 @@ worked on, as well as providing links to some valuable resources.
 ### [WebApiContrib.Tracing.Log4Net](http://github.com/WebApiContrib/WebApiContrib.Tracing.Log4Net)
 
 * NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Tracing.Log4Net`
+
+### [WebApiContrib.Tracing.Nlog](http://github.com/WebApiContrib/WebApiContrib.Tracing.Nlog)
+
+* NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Tracing.Nlog`
 
 ### [WebApiContrib.SelfHost](http://github.com/WebApiContrib/WebApiContrib.SelfHost)
 
