@@ -77,11 +77,7 @@ worked on, as well as providing links to some valuable resources.
 
 * NuGet Package: :white_check_mark: `Install-Package WebApiContrib.IoC.Autofac`
 
-## Miscellaneous
-
-### [WebApiContrib.RavenDb](http://github.com/WebApiContrib/WebApiContrib.RavenDb)
-
-* NuGet Package: :white_check_mark: `Install-Package WebApiContrib.RavenDb`
+## Tracing
 
 ### [WebApiContrib.Tracing.Log4Net](http://github.com/WebApiContrib/WebApiContrib.Tracing.Log4Net)
 
@@ -90,6 +86,12 @@ worked on, as well as providing links to some valuable resources.
 ### [WebApiContrib.Tracing.Nlog](http://github.com/WebApiContrib/WebApiContrib.Tracing.Nlog)
 
 * NuGet Package: :white_check_mark: `Install-Package WebApiContrib.Tracing.Nlog`
+
+## Miscellaneous
+
+### [WebApiContrib.RavenDb](http://github.com/WebApiContrib/WebApiContrib.RavenDb)
+
+* NuGet Package: :white_check_mark: `Install-Package WebApiContrib.RavenDb`
 
 ### [WebApiContrib.SelfHost](http://github.com/WebApiContrib/WebApiContrib.SelfHost)
 
